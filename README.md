@@ -25,8 +25,6 @@
 ### 1. Product Definition & Brand Customization
 ![Product Definition](screenshots/product-definition.png)
 
-### 2. Cross-Medium Consistency Verification
-![Generated Campaigns](screenshots/generated-campaigns.png)
 
 ### 3. Additional Project Preview
 ![Brand Builder Preview](screenshots/brand-builder-preview.png)
