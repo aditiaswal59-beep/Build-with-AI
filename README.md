@@ -25,9 +25,11 @@
 ### 1. Product Definition & Brand Customization
 ![Product Definition](screenshots/product-definition.png)
 
-
-### 3. Additional Project Preview
+### 2. Additional Project Preview
 ![Brand Builder Preview](screenshots/brand-builder-preview.png)
+
+##You can see it live here:
+https://brand-builder-8614.ai.studio/
 
 ## 🤖 AI Integration
 
